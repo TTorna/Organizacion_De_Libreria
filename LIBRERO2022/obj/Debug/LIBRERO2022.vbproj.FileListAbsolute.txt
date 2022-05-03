@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\LIBRERO2022\bin\Debug\LIBRERO2022.exe.config
+C:\Users\Usuario\source\repos\LIBRERO2022\bin\Debug\LIBRERO2022.exe
+C:\Users\Usuario\source\repos\LIBRERO2022\bin\Debug\LIBRERO2022.pdb
+C:\Users\Usuario\source\repos\LIBRERO2022\bin\Debug\LIBRERO2022.xml
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.Resources.resources
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.exe
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.xml
+C:\Users\Usuario\source\repos\LIBRERO2022\obj\Debug\LIBRERO2022.pdb
